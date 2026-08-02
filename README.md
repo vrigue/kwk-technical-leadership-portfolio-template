@@ -4,18 +4,12 @@
 
 ### Why Technical Leadership?
 
-[describe importance of technical communication + leadership within KWK program and/or your line of work]
-
-Placeholder introductory text.
+`describe importance of technical communication + leadership within KWK program and/or your line of work`
 
 ### How to Navigate This Repo
 
-[describe the structure of folders or markdown documents]
-
-Placeholder description text.
+`describe the structure of folders and markdown documents`
 
 ### Final Reflection
 
-[describe any final thoughts after accelerator completion and/or tailor for future resumé use]
-
-Placeholder reflection text.
+`describe any final thoughts after accelerator completion and/or tailor for future resumé use`
